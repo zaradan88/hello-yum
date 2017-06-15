@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>hello yum</title>
+<link rel="stylesheet" type="text/css" href="style.css">
+</head>
+  <body>
+    <!-- this is my nav bar-->
+
+
+    <h1>hello yum</h1>
+
+    <nav>
+      <ul>
+        <li><a href="index.">home</a></li>
+        <li><a href="about.html">about</a></li>
+        <li><a href="#">recipes</a></li>
+        <li><a href="#">contact</a></li>
+      </ul>
+    </nav>
+    <br /><br />
+
+    <div class="center">
+        <img src="poke.jpg" height="300px">
+         &nbsp;
+        <img src="poke 2.jpg" height="300px">
+    </div>
+
+    <div class="intro">
+      <h2>organic hawaiian poke</h2>
+        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam et auctor augue. Praesent faucibus posuere ligula, non porttitor dui iaculis eu. Pellentesque fringilla lobortis mi, ut consectetur libero fermentum convallis. Praesent blandit, mi eget rhoncus commodo, dui sapien imperdiet libero, sed tempor nisl turpis in augue. Nam tempor a libero nec vulputate. Nulla quis nunc at ipsum gravida scelerisque. Cras elementum tortor enim, at pellentesque justo pretium eu. Fusce pharetra tortor mi, ac rutrum lorem lacinia lobortis. Etiam id pellentesque nibh, non scelerisque sem. Proin vitae pulvinar lectus, et lobortis lectus. Nullam viverra id orci sed rutrum. Phasellus vitae tincidunt neque, quis tempus turpis. Nullam maximus lorem sit amet dapibus posuere. Morbi tempor ex a est finibus tempor. Etiam ullamcorper, felis sagittis imperdiet imperdiet, nulla velit tempor nibh, ut consectetur est purus et ipsum. </p>
+        <p>Nunc congue nibh odio. Maecenas ut nibh congue, auctor purus vestibulum, semper lectus. Quisque fermentum, libero vel euismod rutrum, felis ante aliquam risus, id tempus purus quam eu dui. Nam hendrerit ultrices lorem, ut posuere nibh fringilla in. Donec laoreet nulla velit, nec tempor mi congue quis. Aenean malesuada tortor at efficitur fringilla. Morbi sed suscipit eros, vitae blandit eros. Morbi vulputate odio nec erat venenatis tristique. Donec eu egestas lorem.</p>
+    </div>
+    
+<!--
+    <table class="table table-striped">
+      <th>header</th>
+      <tbody>
+        <tr>
+          <td>cell 1</td>
+          <td>perfect cell</td>
+        <tr>
+          <td>cell 2</td>
+          <td>imperfect cell</td>
+        </tr>
+        </tr>
+      </tbody>
+    </table>
+-->
+
+    <div class ="recipe">
+      <h3>ingredients</h3>
+        <ul class="inglist">
+          <li><span>1</span> cup sushi rice</li>
+          <li><span>3/2</span> cup salmon</li>
+          <li><span>3/2</span> cup ahi tuna</li>
+          <li>cucumbers</li>
+          <li>diced mango</li>
+          <li><span>1/4</span> cup umami shoyu</li>
+          <li><span>1/2</span> cup avocado</li>
+          <li><span>1/4</span> cup masago</li>
+          <li><span>1/2</span> cup seaweed salad</li>
+          <li>a sprinkle of wonton crisps</li>
+        </ul>
+      <h3>steps</h3>
+        <ol>
+          <li>gather ingredients</li>
+          <li>mix everything together</li>
+        </ol>
+    </div>
+
+  </body>
+  <footer>
+    <span>made with organic love</span>
+  </footer>
+</html>
